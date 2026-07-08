@@ -1,6 +1,4 @@
 {
-  "scopes": [
-  ],
   "api": {
     "name": "Customer Contact",
     "description": "API used to facilitate the storing of customer phone and email details",
